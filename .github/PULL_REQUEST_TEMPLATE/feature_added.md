@@ -1,4 +1,8 @@
-# Summary
+# Issues affected
+
+Link to the issues this pull request affects.
+
+## Summary
 
 Give a terse summary of the feature added by this pull request.
 Include what was added, what wasn't and how to use it.
