@@ -10,8 +10,6 @@ It is encouraged and kindly requested that you follow the guides and contributio
 * Respect the time invested into this project by all its contributing members.
 * Ensure you can reach the developers or other members in a timely and structured manner that helps to communicate your problem without fault.
 
-[source: [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)]
-
 ## Contributions are welcome
 
 We welcome contributions of many forms, including but not limited to:
@@ -19,6 +17,8 @@ We welcome contributions of many forms, including but not limited to:
 * Documentation improvements
 * Bug reports
 * Feature requests
+
+To learn how you can contribute to the above, look further below.
 
 ## Contributions we currently don't welcome
 
@@ -31,7 +31,7 @@ For internal support on the USER EXPERIENCE or INTERACTING WITH THE FINAL PRODUC
 
 For support on DEVELOPING THE PROJECT through code, styling, documentation, testing, etc, it is highly recommended that the issue in question be researched online, as it is likely you will find your answer from there. Otherwise, the above rules apply for submitting technical support issues.
 
-## Ground Rules for communication
+## Ground Rules for contribution
 
 ### Responsibilities
 
@@ -40,8 +40,6 @@ For support on DEVELOPING THE PROJECT through code, styling, documentation, test
 * Keep the complexity of simple issues to a minimum to avoid the possiblity of accumulating technical debt. It is therefore requested that major contributions are collaborated on with members of the tech team.
 * Keep feature versions as small as possible, preferably one new feature per version.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds.
-
-[source: [cookiecutter](https://github.com/audreyr/cookiecutter/blob/master/CONTRIBUTING.rst)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct) [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
 
 ### Your First Contribution
 
@@ -67,7 +65,7 @@ As part of any contribution to the source code, we appreciate if the following p
 * Ensure any and all necessary tests are available for the feature and that they all pass without fault.
 * Publish a Pull Request or documentation.
 
-### If you have a different process for small or "obvious" fixes, let them know.
+### Small contributions
 
 Small contributions such as fixing spelling errors, where the content is small enough to not be considered intellectual property, can be submitted by a contributor as a patch and attached via the issue it affects. Such patches will be automatically
 
@@ -79,7 +77,7 @@ As a rule of thumb, changes are those fixes which are either obvious to resolve 
 * Bug fixes that change default return values or error codes stored in constants
 * Adding logging messages or debugging output
 * Changes to ‘metadata’ files like rc files, .gitignore, build scripts, markdown files, servable assets, etc.
-* Refactoring source files from one directory or package to another.
+* Refactoring source files from one directory or package to another
 
 ## How to report a bug
 
@@ -143,8 +141,14 @@ Code convention has yet to be decided on. Eventually, one will be decided on and
 
 ### Preferred style of code
 
+TODO
+
 ### Commit message conventions
+
+TODO
 
 ### Issue labelling convention
 
-<sub>This contribution document is based on the following [template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)</sub>
+TODO
+
+<sub>This contribution document is heavily based on the following [template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md).</sub>
